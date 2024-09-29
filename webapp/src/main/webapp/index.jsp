@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Vise-Academy Registration!</h1>
     <h2>ROAD SE UTHA KE START BANA DENGE </h2>
-
+    <h2>FROM ZERO TO HERO </h2>
     <p>Please fill in this form</p>
 
     <hr>
