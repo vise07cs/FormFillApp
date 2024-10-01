@@ -4,7 +4,7 @@
     <h2>ROAD SE UTHA KE START BANA DENGE </h2>
     <h2>FROM ZERO TO HERO </h2>
     <h2>PADH LO CHAHE KAHI SE ..PLACEMNT HOGA YAHI SE  </h2>
-    <h2>PADH LO CHAHE KAHI SE ..PLACEMNT HOGA YAHI SE...job gurantee program by vise Sir   </h2>	
+    <h2>...job gurantee program by vise Sir   </h2>	
     <p>Please fill in this form</p>
 
     <hr>
