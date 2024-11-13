@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Vise-Academy  Student Registration!</h1>
     <h2> Devops + AWS classes </h2>
+    <h3>JOIN NOW !!!!!!!! </h3>
     <p>Please fill in this form</p>
     <hr>
     <br>
