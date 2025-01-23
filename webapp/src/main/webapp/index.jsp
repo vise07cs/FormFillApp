@@ -1,6 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Student Registration!</h1>
+    <h1>admission closing soon!</h1>
+
     <h2> Devops + AWS classes </h2>
     <h3>JOIN NOW !!!!!!!! </h3>
     <p>Please fill in this form</p>
