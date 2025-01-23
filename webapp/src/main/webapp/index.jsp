@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Student Registration!</h1>
     <h1>admission closing soon , join as soon as possible!</h1>
-     <h2> Lets learn Devops !!!!!!  </h2>
+     <h2> LETS LEARN AND GROW !!!!!!     </h2>
 
     <h2> Devops + AWS classes </h2>
     <h3>JOIN NOW !!!!!!!! </h3>
@@ -11,8 +11,13 @@
     <br>
 
 
-    <label for="name"><b>NAME</b></label>
-    <input type="text" placeholder="Enter NAME" name="name" id="name" required>
+    <label for="name"><b>FATHER'S NAME</b></label>
+    <input type="text" placeholder="Enter FATHER'S NAME" name="Fname" id="Fname" required>
+
+    <label for="Fname"><b>NAME</b></label>
+    <input type="text" placeholder="Enter FNAME" name="Fname" id="Fname" required>
+
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
